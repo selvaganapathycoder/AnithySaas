@@ -8,8 +8,8 @@
 A high-performance, fully responsive, and SEO-optimized SaaS landing page built with modern web technologies. Designed to meet 2026 hiring standards with complex animations, dark mode support, and a scalable architecture.
 
 ## 🚀 Live Demo
-
-[View Live Demo](#) *(Place link here after deployment)*
+- [Live Site (GitHub Pages)](https://selvaganapathycoder.github.io/AnithySaas)
+- [Live Site (Vercel)](https://anithy-saas-dd45m8fia-selvaganapathys-projects-840a79fb.vercel.app)
 
 ## ✨ Features
 
